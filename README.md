@@ -36,6 +36,7 @@ npm run dev
 
 ## 📁 Project Structure
 
+```bash
 ├── public/
 ├── src/
 │   ├── assets/
@@ -50,3 +51,4 @@ npm run dev
 ├── package.json
 ├── README.md
 └── vite.config.js
+```
